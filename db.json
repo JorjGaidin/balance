@@ -1,0 +1,81 @@
+{
+  "actions": [
+    {
+      "id": 1,
+      "Created": "12/1/24",
+      "Last Updated": "12/23/24",
+      "Type": "Engineering",
+      "Item": "Triangle Engineering - BW from Arya 1",
+      "Owner": "Matt Weiskoph/Aron Prill",
+      "Impact": "Adds engineering flexibility",
+      "Priority": "Medium",
+      "Status": "Active"
+    },
+    {
+      "id": 2,
+      "Created": "12/19/24",
+      "Last Updated": "12/20/24",
+      "Type": "Action",
+      "Item": "Shut off Jesse James to Jewett when Jewett is full on 12/19",
+      "Owner": "Matt Weiskoph/Aron Prill",
+      "Impact": "Optimizes operational water routing",
+      "Priority": "High",
+      "Status": "Complete"
+    },
+    {
+      "id": 3,
+      "Created": "12/19/24",
+      "Last Updated": "12/22/24",
+      "Type": "Action",
+      "Item": "Burrata to Lost tank at 30K BPD on 12/30 - 12/25",
+      "Owner": "Matt Weiskoph/Aron Prill",
+      "Impact": "Ensures water storage efficiency",
+      "Priority": "Medium",
+      "Status": "Active"
+    },
+    {
+      "id": 4,
+      "Created": "12/19/24",
+      "Last Updated": "12/24/24",
+      "Type": "Action",
+      "Item": "85K BPD from JJ to Quennie start on 12/23 - lower rate to 50K BPD on 12/28",
+      "Owner": "Matt Weiskoph/Aron Prill",
+      "Impact": "Manages water transfer rates",
+      "Priority": "High",
+      "Status": "Active"
+    },
+    {
+      "id": 5,
+      "Created": "12/19/24",
+      "Last Updated": "12/26/24",
+      "Type": "Action",
+      "Item": "135K BPD from JJ to Jewett on 12/28 to refresh Robins frac",
+      "Owner": "Aaron Horn",
+      "Impact": "Supports frac operations",
+      "Priority": "High",
+      "Status": "Active"
+    },
+    {
+      "id": 6,
+      "Created": "12/19/24",
+      "Last Updated": "12/30/24",
+      "Type": "Contract",
+      "Item": "Finalizing XRI contract to obtain 1.6M BBLs from XRI at J3 (55K BPD)",
+      "Owner": "Aaron Horn",
+      "Impact": "Secures critical resources",
+      "Priority": "High",
+      "Status": "Active"
+    },
+    {
+      "id": 7,
+      "Created": "12/17/24",
+      "Last Updated": "12/16/24",
+      "Type": "Plan",
+      "Item": "Cedar State - Treat on the fly along with Parkway",
+      "Owner": "Aron Prill/Matt Weiskoph",
+      "Impact": "Optimizes treatment workflows",
+      "Priority": "Medium",
+      "Status": "Active"
+    }
+  ]
+}
